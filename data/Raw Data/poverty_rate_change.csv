@@ -1,0 +1,1053 @@
+﻿State FIPS,County FIPS,County Name,State Name,Direction of Change
+01,077,"Lauderdale County, AL",Alabama,Decrease
+01,083,"Limestone County, AL",Alabama,Decrease
+01,097,"Mobile County, AL",Alabama,Decrease
+01,111,"Randolph County, AL",Alabama,Decrease
+01,117,"Shelby County, AL",Alabama,Increase
+02,050,"Bethel Census Area, AK",Alaska,Increase
+02,060,"Bristol Bay Borough, AK",Alaska,Increase
+04,009,"Graham County, AZ",Arizona,Decrease
+04,013,"Maricopa County, AZ",Arizona,Decrease
+04,015,"Mohave County, AZ",Arizona,Increase
+05,005,"Baxter County, AR",Arkansas,Increase
+05,007,"Benton County, AR",Arkansas,Decrease
+05,033,"Crawford County, AR",Arkansas,Decrease
+05,111,"Poinsett County, AR",Arkansas,Decrease
+05,131,"Sebastian County, AR",Arkansas,Decrease
+06,001,"Alameda County, CA",California,Decrease
+06,007,"Butte County, CA",California,Increase
+06,015,"Del Norte County, CA",California,Decrease
+06,019,"Fresno County, CA",California,Decrease
+06,025,"Imperial County, CA",California,Decrease
+06,037,"Los Angeles County, CA",California,Decrease
+06,041,"Marin County, CA",California,Increase
+06,043,"Mariposa County, CA",California,Increase
+06,057,"Nevada County, CA",California,Increase
+06,069,"San Benito County, CA",California,Decrease
+06,073,"San Diego County, CA",California,Decrease
+06,075,"San Francisco County, CA",California,Increase
+06,081,"San Mateo County, CA",California,Increase
+06,083,"Santa Barbara County, CA",California,Increase
+06,103,"Tehama County, CA",California,Decrease
+06,107,"Tulare County, CA",California,Decrease
+06,115,"Yuba County, CA",California,Decrease
+08,001,"Adams County, CO",Colorado,Decrease
+08,031,"Denver County, CO",Colorado,Decrease
+08,035,"Douglas County, CO",Colorado,Increase
+08,041,"El Paso County, CO",Colorado,Decrease
+08,053,"Hinsdale County, CO",Colorado,Decrease
+08,069,"Larimer County, CO",Colorado,Decrease
+08,097,"Pitkin County, CO",Colorado,Increase
+08,101,"Pueblo County, CO",Colorado,Decrease
+08,109,"Saguache County, CO",Colorado,Decrease
+08,123,"Weld County, CO",Colorado,Decrease
+11,001,"District of Columbia, DC",District of Columbia,Decrease
+12,001,"Alachua County, FL",Florida,Decrease
+12,011,"Broward County, FL",Florida,Increase
+12,017,"Citrus County, FL",Florida,Increase
+12,031,"Duval County, FL",Florida,Increase
+12,053,"Hernando County, FL",Florida,Increase
+12,057,"Hillsborough County, FL",Florida,Increase
+12,063,"Jackson County, FL",Florida,Decrease
+12,065,"Jefferson County, FL",Florida,Increase
+12,071,"Lee County, FL",Florida,Increase
+12,085,"Martin County, FL",Florida,Increase
+12,113,"Santa Rosa County, FL",Florida,Decrease
+12,119,"Sumter County, FL",Florida,Decrease
+12,127,"Volusia County, FL",Florida,Decrease
+13,059,"Clarke County, GA",Georgia,Decrease
+13,063,"Clayton County, GA",Georgia,Increase
+13,133,"Greene County, GA",Georgia,Decrease
+13,135,"Gwinnett County, GA",Georgia,Increase
+13,151,"Henry County, GA",Georgia,Increase
+13,155,"Irwin County, GA",Georgia,Decrease
+13,157,"Jackson County, GA",Georgia,Decrease
+13,183,"Long County, GA",Georgia,Decrease
+13,199,"Meriwether County, GA",Georgia,Decrease
+13,277,"Tift County, GA",Georgia,Decrease
+13,311,"White County, GA",Georgia,Decrease
+15,001,"Hawaii County, HI",Hawaii,Increase
+15,003,"Honolulu County, HI",Hawaii,Increase
+15,009,"Maui County, HI",Hawaii,Increase
+16,005,"Bannock County, ID",Idaho,Decrease
+16,017,"Bonner County, ID",Idaho,Decrease
+16,021,"Boundary County, ID",Idaho,Decrease
+16,027,"Canyon County, ID",Idaho,Decrease
+16,031,"Cassia County, ID",Idaho,Decrease
+16,041,"Franklin County, ID",Idaho,Decrease
+16,051,"Jefferson County, ID",Idaho,Decrease
+16,067,"Minidoka County, ID",Idaho,Decrease
+16,073,"Owyhee County, ID",Idaho,Decrease
+16,075,"Payette County, ID",Idaho,Decrease
+17,031,"Cook County, IL",Illinois,Decrease
+17,043,"DuPage County, IL",Illinois,Increase
+17,077,"Jackson County, IL",Illinois,Decrease
+17,093,"Kendall County, IL",Illinois,Increase
+17,097,"Lake County, IL",Illinois,Increase
+17,107,"Logan County, IL",Illinois,Increase
+17,143,"Peoria County, IL",Illinois,Increase
+17,151,"Pope County, IL",Illinois,Decrease
+17,181,"Union County, IL",Illinois,Decrease
+17,197,"Will County, IL",Illinois,Increase
+18,003,"Allen County, IN",Indiana,Increase
+18,011,"Boone County, IN",Indiana,Decrease
+18,027,"Daviess County, IN",Indiana,Decrease
+18,033,"De Kalb County, IN",Indiana,Increase
+18,057,"Hamilton County, IN",Indiana,Increase
+18,105,"Monroe County, IN",Indiana,Decrease
+18,167,"Vigo County, IN",Indiana,Increase
+18,173,"Warrick County, IN",Indiana,Increase
+19,013,"Black Hawk County, IA",Iowa,Decrease
+19,015,"Boone County, IA",Iowa,Decrease
+19,129,"Mills County, IA",Iowa,Decrease
+19,149,"Plymouth County, IA",Iowa,Increase
+19,153,"Polk County, IA",Iowa,Increase
+19,179,"Wapello County, IA",Iowa,Decrease
+19,191,"Winneshiek County, IA",Iowa,Decrease
+20,051,"Ellis County, KS",Kansas,Increase
+20,055,"Finney County, KS",Kansas,Decrease
+20,091,"Johnson County, KS",Kansas,Increase
+20,111,"Lyon County, KS",Kansas,Decrease
+21,011,"Bath County, KY",Kentucky,Decrease
+21,049,"Clark County, KY",Kentucky,Decrease
+21,071,"Floyd County, KY",Kentucky,Decrease
+21,093,"Hardin County, KY",Kentucky,Increase
+21,099,"Hart County, KY",Kentucky,Decrease
+21,109,"Jackson County, KY",Kentucky,Decrease
+21,111,"Jefferson County, KY",Kentucky,Increase
+21,113,"Jessamine County, KY",Kentucky,Decrease
+21,117,"Kenton County, KY",Kentucky,Decrease
+21,135,"Lewis County, KY",Kentucky,Decrease
+21,151,"Madison County, KY",Kentucky,Decrease
+21,159,"Martin County, KY",Kentucky,Increase
+21,173,"Montgomery County, KY",Kentucky,Decrease
+21,189,"Owsley County, KY",Kentucky,Decrease
+21,199,"Pulaski County, KY",Kentucky,Decrease
+21,225,"Union County, KY",Kentucky,Decrease
+21,227,"Warren County, KY",Kentucky,Decrease
+21,237,"Wolfe County, KY",Kentucky,Decrease
+22,051,"Jefferson Parish, LA",Louisiana,Increase
+22,063,"Livingston Parish, LA",Louisiana,Increase
+22,097,"St. Landry Parish, LA",Louisiana,Decrease
+23,003,"Aroostook County, ME",Maine,Decrease
+23,005,"Cumberland County, ME",Maine,Decrease
+23,025,"Somerset County, ME",Maine,Decrease
+24,001,"Allegany County, MD",Maryland,Increase
+24,005,"Baltimore County, MD",Maryland,Increase
+24,013,"Carroll County, MD",Maryland,Increase
+24,017,"Charles County, MD",Maryland,Increase
+24,025,"Harford County, MD",Maryland,Increase
+24,031,"Montgomery County, MD",Maryland,Increase
+24,033,"Prince George's County, MD",Maryland,Increase
+25,001,"Barnstable County, MA",Massachusetts,Increase
+25,005,"Bristol County, MA",Massachusetts,Increase
+25,021,"Norfolk County, MA",Massachusetts,Increase
+25,025,"Suffolk County, MA",Massachusetts,Decrease
+25,027,"Worcester County, MA",Massachusetts,Increase
+26,077,"Kalamazoo County, MI",Michigan,Decrease
+26,081,"Kent County, MI",Michigan,Decrease
+26,099,"Macomb County, MI",Michigan,Increase
+26,107,"Mecosta County, MI",Michigan,Decrease
+26,115,"Monroe County, MI",Michigan,Increase
+26,117,"Montcalm County, MI",Michigan,Decrease
+26,127,"Oceana County, MI",Michigan,Decrease
+26,139,"Ottawa County, MI",Michigan,Increase
+26,143,"Roscommon County, MI",Michigan,Decrease
+26,149,"St. Joseph County, MI",Michigan,Decrease
+26,161,"Washtenaw County, MI",Michigan,Increase
+27,009,"Benton County, MN",Minnesota,Increase
+27,023,"Chippewa County, MN",Minnesota,Increase
+27,061,"Itasca County, MN",Minnesota,Increase
+27,081,"Lincoln County, MN",Minnesota,Decrease
+27,091,"Martin County, MN",Minnesota,Increase
+27,105,"Nobles County, MN",Minnesota,Decrease
+27,119,"Polk County, MN",Minnesota,Decrease
+27,127,"Redwood County, MN",Minnesota,Increase
+27,131,"Rice County, MN",Minnesota,Increase
+27,139,"Scott County, MN",Minnesota,Increase
+27,149,"Stevens County, MN",Minnesota,Decrease
+28,001,"Adams County, MS",Mississippi,Decrease
+28,013,"Calhoun County, MS",Mississippi,Decrease
+28,019,"Choctaw County, MS",Mississippi,Decrease
+28,035,"Forrest County, MS",Mississippi,Decrease
+28,071,"Lafayette County, MS",Mississippi,Decrease
+28,083,"Leflore County, MS",Mississippi,Decrease
+28,105,"Oktibbeha County, MS",Mississippi,Decrease
+28,159,"Winston County, MS",Mississippi,Increase
+29,001,"Adair County, MO",Missouri,Decrease
+29,043,"Christian County, MO",Missouri,Decrease
+29,063,"DeKalb County, MO",Missouri,Decrease
+29,089,"Howard County, MO",Missouri,Decrease
+29,095,"Jackson County, MO",Missouri,Decrease
+29,133,"Mississippi County, MO",Missouri,Decrease
+29,143,"New Madrid County, MO",Missouri,Decrease
+29,145,"Newton County, MO",Missouri,Decrease
+29,149,"Oregon County, MO",Missouri,Decrease
+29,199,"Scotland County, MO",Missouri,Decrease
+29,207,"Stoddard County, MO",Missouri,Decrease
+29,211,"Sullivan County, MO",Missouri,Decrease
+29,225,"Webster County, MO",Missouri,Decrease
+29,229,"Wright County, MO",Missouri,Decrease
+30,007,"Broadwater County, MT",Montana,Decrease
+30,023,"Deer Lodge County, MT",Montana,Decrease
+30,027,"Fergus County, MT",Montana,Decrease
+30,029,"Flathead County, MT",Montana,Decrease
+30,031,"Gallatin County, MT",Montana,Decrease
+30,043,"Jefferson County, MT",Montana,Decrease
+30,047,"Lake County, MT",Montana,Decrease
+30,063,"Missoula County, MT",Montana,Decrease
+30,069,"Petroleum County, MT",Montana,Decrease
+31,003,"Antelope County, NE",Nebraska,Decrease
+31,041,"Custer County, NE",Nebraska,Decrease
+31,053,"Dodge County, NE",Nebraska,Decrease
+31,059,"Fillmore County, NE",Nebraska,Decrease
+31,153,"Sarpy County, NE",Nebraska,Decrease
+31,169,"Thayer County, NE",Nebraska,Decrease
+31,173,"Thurston County, NE",Nebraska,Decrease
+32,003,"Clark County, NV",Nevada,Increase
+32,029,"Storey County, NV",Nevada,Increase
+34,005,"Burlington County, NJ",New Jersey,Increase
+34,019,"Hunterdon County, NJ",New Jersey,Increase
+34,023,"Middlesex County, NJ",New Jersey,Increase
+34,029,"Ocean County, NJ",New Jersey,Increase
+34,035,"Somerset County, NJ",New Jersey,Increase
+34,041,"Warren County, NJ",New Jersey,Increase
+35,013,"Dona Ana County, NM",New Mexico,Decrease
+35,031,"McKinley County, NM",New Mexico,Increase
+35,049,"Santa Fe County, NM",New Mexico,Decrease
+36,021,"Columbia County, NY",New York,Increase
+36,041,"Hamilton County, NY",New York,Decrease
+36,047,"Kings County, NY",New York,Decrease
+36,049,"Lewis County, NY",New York,Decrease
+36,057,"Montgomery County, NY",New York,Increase
+36,059,"Nassau County, NY",New York,Increase
+36,071,"Orange County, NY",New York,Increase
+36,081,"Queens County, NY",New York,Increase
+36,085,"Richmond County, NY",New York,Increase
+36,087,"Rockland County, NY",New York,Increase
+36,093,"Schenectady County, NY",New York,Increase
+36,103,"Suffolk County, NY",New York,Increase
+36,107,"Tioga County, NY",New York,Increase
+36,109,"Tompkins County, NY",New York,Decrease
+36,119,"Westchester County, NY",New York,Increase
+36,123,"Yates County, NY",New York,Decrease
+37,019,"Brunswick County, NC",North Carolina,Decrease
+37,025,"Cabarrus County, NC",North Carolina,Decrease
+37,037,"Chatham County, NC",North Carolina,Decrease
+37,053,"Currituck County, NC",North Carolina,Decrease
+37,063,"Durham County, NC",North Carolina,Decrease
+37,075,"Graham County, NC",North Carolina,Decrease
+37,085,"Harnett County, NC",North Carolina,Decrease
+37,135,"Orange County, NC",North Carolina,Decrease
+37,171,"Surry County, NC",North Carolina,Decrease
+37,183,"Wake County, NC",North Carolina,Decrease
+38,017,"Cass County, ND",North Dakota,Decrease
+38,031,"Foster County, ND",North Dakota,Increase
+38,035,"Grand Forks County, ND",North Dakota,Decrease
+38,053,"McKenzie County, ND",North Dakota,Decrease
+38,061,"Mountrail County, ND",North Dakota,Decrease
+38,079,"Rolette County, ND",North Dakota,Decrease
+38,101,"Ward County, ND",North Dakota,Decrease
+38,105,"Williams County, ND",North Dakota,Decrease
+39,005,"Ashland County, OH",Ohio,Increase
+39,031,"Coshocton County, OH",Ohio,Increase
+39,053,"Gallia County, OH",Ohio,Decrease
+39,085,"Lake County, OH",Ohio,Increase
+39,087,"Lawrence County, OH",Ohio,Decrease
+39,099,"Mahoning County, OH",Ohio,Increase
+39,115,"Morgan County, OH",Ohio,Decrease
+39,133,"Portage County, OH",Ohio,Increase
+39,155,"Trumbull County, OH",Ohio,Increase
+39,161,"Van Wert County, OH",Ohio,Increase
+40,009,"Beckham County, OK",Oklahoma,Increase
+40,021,"Cherokee County, OK",Oklahoma,Decrease
+40,027,"Cleveland County, OK",Oklahoma,Increase
+40,081,"Lincoln County, OK",Oklahoma,Increase
+40,115,"Ottawa County, OK",Oklahoma,Increase
+40,129,"Roger Mills County, OK",Oklahoma,Increase
+40,147,"Washington County, OK",Oklahoma,Increase
+41,005,"Clackamas County, OR",Oregon,Decrease
+41,031,"Jefferson County, OR",Oregon,Decrease
+41,051,"Multnomah County, OR",Oregon,Decrease
+42,017,"Bucks County, PA",Pennsylvania,Increase
+42,027,"Centre County, PA",Pennsylvania,Increase
+42,041,"Cumberland County, PA",Pennsylvania,Increase
+42,043,"Dauphin County, PA",Pennsylvania,Increase
+42,065,"Jefferson County, PA",Pennsylvania,Increase
+42,069,"Lackawanna County, PA",Pennsylvania,Increase
+42,077,"Lehigh County, PA",Pennsylvania,Increase
+42,079,"Luzerne County, PA",Pennsylvania,Increase
+42,091,"Montgomery County, PA",Pennsylvania,Increase
+42,095,"Northampton County, PA",Pennsylvania,Increase
+42,101,"Philadelphia County, PA",Pennsylvania,Decrease
+44,003,"Kent County, RI",Rhode Island,Increase
+44,005,"Newport County, RI",Rhode Island,Increase
+44,007,"Providence County, RI",Rhode Island,Decrease
+44,009,"Washington County, RI",Rhode Island,Increase
+45,011,"Barnwell County, SC",South Carolina,Increase
+45,019,"Charleston County, SC",South Carolina,Decrease
+45,043,"Georgetown County, SC",South Carolina,Decrease
+45,057,"Lancaster County, SC",South Carolina,Decrease
+45,079,"Richland County, SC",South Carolina,Increase
+45,087,"Union County, SC",South Carolina,Increase
+45,089,"Williamsburg County, SC",South Carolina,Decrease
+45,091,"York County, SC",South Carolina,Decrease
+46,005,"Beadle County, SD",South Dakota,Increase
+46,011,"Brookings County, SD",South Dakota,Decrease
+46,017,"Buffalo County, SD",South Dakota,Decrease
+46,043,"Douglas County, SD",South Dakota,Decrease
+46,102,"Oglala Lakota County, SD",South Dakota,Decrease
+46,109,"Roberts County, SD",South Dakota,Decrease
+46,119,"Sully County, SD",South Dakota,Decrease
+47,003,"Bedford County, TN",Tennessee,Decrease
+47,029,"Cocke County, TN",Tennessee,Decrease
+47,037,"Davidson County, TN",Tennessee,Decrease
+47,049,"Fentress County, TN",Tennessee,Decrease
+47,059,"Greene County, TN",Tennessee,Decrease
+47,089,"Jefferson County, TN",Tennessee,Decrease
+47,121,"Meigs County, TN",Tennessee,Decrease
+47,129,"Morgan County, TN",Tennessee,Decrease
+47,133,"Overton County, TN",Tennessee,Decrease
+47,141,"Putnam County, TN",Tennessee,Decrease
+47,149,"Rutherford County, TN",Tennessee,Decrease
+47,157,"Shelby County, TN",Tennessee,Decrease
+47,171,"Unicoi County, TN",Tennessee,Decrease
+47,173,"Union County, TN",Tennessee,Decrease
+47,185,"White County, TN",Tennessee,Decrease
+48,003,"Andrews County, TX",Texas,Decrease
+48,029,"Bexar County, TX",Texas,Decrease
+48,033,"Borden County, TX",Texas,Increase
+48,035,"Bosque County, TX",Texas,Decrease
+48,061,"Cameron County, TX",Texas,Decrease
+48,091,"Comal County, TX",Texas,Decrease
+48,113,"Dallas County, TX",Texas,Decrease
+48,121,"Denton County, TX",Texas,Decrease
+48,135,"Ector County, TX",Texas,Decrease
+48,139,"Ellis County, TX",Texas,Decrease
+48,141,"El Paso County, TX",Texas,Decrease
+48,145,"Falls County, TX",Texas,Decrease
+48,149,"Fayette County, TX",Texas,Decrease
+48,165,"Gaines County, TX",Texas,Decrease
+48,209,"Hays County, TX",Texas,Decrease
+48,215,"Hidalgo County, TX",Texas,Decrease
+48,221,"Hood County, TX",Texas,Decrease
+48,227,"Howard County, TX",Texas,Decrease
+48,231,"Hunt County, TX",Texas,Decrease
+48,265,"Kerr County, TX",Texas,Decrease
+48,269,"King County, TX",Texas,Decrease
+48,301,"Loving County, TX",Texas,Decrease
+48,317,"Martin County, TX",Texas,Decrease
+48,321,"Matagorda County, TX",Texas,Decrease
+48,323,"Maverick County, TX",Texas,Decrease
+48,329,"Midland County, TX",Texas,Decrease
+48,359,"Oldham County, TX",Texas,Decrease
+48,375,"Potter County, TX",Texas,Decrease
+48,389,"Reeves County, TX",Texas,Decrease
+48,393,"Roberts County, TX",Texas,Increase
+48,439,"Tarrant County, TX",Texas,Decrease
+48,453,"Travis County, TX",Texas,Decrease
+48,473,"Waller County, TX",Texas,Decrease
+48,479,"Webb County, TX",Texas,Decrease
+48,489,"Willacy County, TX",Texas,Decrease
+48,501,"Yoakum County, TX",Texas,Decrease
+48,507,"Zavala County, TX",Texas,Decrease
+49,005,"Cache County, UT",Utah,Decrease
+49,019,"Grand County, UT",Utah,Decrease
+49,021,"Iron County, UT",Utah,Decrease
+49,027,"Millard County, UT",Utah,Decrease
+49,037,"San Juan County, UT",Utah,Decrease
+49,049,"Utah County, UT",Utah,Decrease
+49,057,"Weber County, UT",Utah,Decrease
+51,059,"Fairfax County, VA",Virginia,Increase
+51,075,"Goochland County, VA",Virginia,Decrease
+51,081,"Greensville County, VA",Virginia,Increase
+51,107,"Loudoun County, VA",Virginia,Increase
+51,121,"Montgomery County, VA",Virginia,Increase
+51,153,"Prince William County, VA",Virginia,Increase
+51,199,"York County, VA",Virginia,Increase
+51,540,"Charlottesville city, VA",Virginia,Decrease
+51,570,"Colonial Heights city, VA",Virginia,Increase
+51,600,"Fairfax city, VA",Virginia,Increase
+51,610,"Falls Church city, VA",Virginia,Increase
+51,670,"Hopewell city, VA",Virginia,Increase
+51,760,"Richmond city, VA",Virginia,Decrease
+51,790,"Staunton city, VA",Virginia,Decrease
+51,810,"Virginia Beach city, VA",Virginia,Increase
+51,840,"Winchester city, VA",Virginia,Increase
+53,011,"Clark County, WA",Washington,Decrease
+53,033,"King County, WA",Washington,Decrease
+53,037,"Kittitas County, WA",Washington,Decrease
+53,039,"Klickitat County, WA",Washington,Decrease
+53,047,"Okanogan County, WA",Washington,Decrease
+53,065,"Stevens County, WA",Washington,Decrease
+53,077,"Yakima County, WA",Washington,Decrease
+54,019,"Fayette County, WV",West Virginia,Decrease
+54,033,"Harrison County, WV",West Virginia,Decrease
+55,031,"Douglas County, WI",Wisconsin,Decrease
+55,033,"Dunn County, WI",Wisconsin,Decrease
+55,035,"Eau Claire County, WI",Wisconsin,Decrease
+55,055,"Jefferson County, WI",Wisconsin,Increase
+55,078,"Menominee County, WI",Wisconsin,Decrease
+55,097,"Portage County, WI",Wisconsin,Decrease
+55,121,"Trempealeau County, WI",Wisconsin,Increase
+55,133,"Waukesha County, WI",Wisconsin,Increase
+55,135,"Waupaca County, WI",Wisconsin,Increase
+56,005,"Campbell County, WY",Wyoming,Increase
+56,035,"Sublette County, WY",Wyoming,Increase
+56,037,"Sweetwater County, WY",Wyoming,Increase
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
+,,,,
