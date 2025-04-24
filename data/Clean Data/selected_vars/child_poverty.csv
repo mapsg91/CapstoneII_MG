@@ -1,0 +1,9 @@
+﻿raw_variable, new_name
+fipscode,fips
+county,county
+state,state_abbr
+v024_race_aian,AIAN
+v024_race_black,Black
+v024_race_hispanic,Hispanic
+v024_race_white,White
+v051_rawvalue,population

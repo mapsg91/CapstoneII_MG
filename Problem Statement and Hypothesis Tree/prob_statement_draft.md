@@ -1,6 +1,6 @@
-## Research Question
-- what effects does long term care (LTSS) funding on social vulnerability at a county-level?
-	- exploratory anlysis; Which US counties stand at extrema(highest/lowest levels) of equity and economic  prosperity? Do these trends have a relationship to long term care spending as a whole and/or in part?
-
-## Hypotheis
-This exploratory analys is better framed by a demographic analysis framework rather than a binary issue tree
+- continuing growing wealth gap, housing costs, cost of living generally 
+- in 2024, is income inequality related to socio-economic well -being, if so what areas are most affected?
+- is this inequity related to other types of inequity?
+- What geographies are the most affected?
+- what trends, if any, exist in places with the most income inequality?
+- are certain racial groups are more affected? If so, which groups and across what metrics?
