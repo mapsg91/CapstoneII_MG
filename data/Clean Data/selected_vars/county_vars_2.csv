@@ -4,7 +4,7 @@ county,county
 state,state_abbr
 v168_rawvalue,hs_diploma_percentage
 v023_rawvalue,unemployed_percentage
-v051_rawvalue,population 
+v051_rawvalue,population
 v063_rawvalue,median_income
 v167_rawvalue,school_segration_index
 v151_rawvalue,gender_pay_gap
@@ -13,7 +13,7 @@ v169_rawvalue,school_funding_gap
 v141_rawvalue,residential_segregation
 v001_rawvalue,premature_death
 v044_rawvalue,income_inequality
-v024_rawvalue,child_poverty
+v024_rawvalue,child_poverty_percentage
 v147_rawvalue,life_expectancy
 v128_rawvalue,child_mortality
 v136_other_data_1,high_housing_cost_percentage
