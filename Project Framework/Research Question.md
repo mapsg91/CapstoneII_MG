@@ -3,6 +3,17 @@ The ongoing joke amongst young and young-ish adults (under 40) is that we will n
 	Though innumerable socio-economic factors shape these realities; a notable backdrop is the ever-growing wealth gap (NCRC) and regress in upward mobility (Manduca et al.). Given these socioeconomic trends are well-documented, my questions center around what communities are being hit the hardest and how? In 2024, how is socioeconomic inequality related to well -being at a county-level in the US, and what areas are most affected (unemployment, poverty, premature mortality, other metrics)? Are there metrics of inequity that standout when looking at social outcomes? If so, which ones?
 # Methodology
 1. Select metrics of inequity as independent variables and metrics of socioeconomic vulnerability (across multipel sectors) as dependent variables.
+	a. create aggregate dataframe for county-level data
+	b. create county > race-group level-data since only some variables have this data available
+	c. handle missing data for both dataframes 
+		a. all_sets - all_sets_filled
+		b. counties_pol_party - countypol_filled
+	d. standardize data
+		a. counties_race - **z_all_sets_filled**
+		b. counties_pol_party - **z_counties**
+	e. selected feature data
+		a.agg_select_subset
+		b.race_select_subset
 2. Feature selection- run Pairwise Mutual Information to identify most signficant variables
 3. Select 1-2 leading independent vars and 3-5 dependent
 4.Models and tests
