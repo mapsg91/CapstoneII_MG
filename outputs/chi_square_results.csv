@@ -1,0 +1,16 @@
+Test,Chi2,p-value,Significant
+Political Party and child poverty,411.09482378082276,0.0031599912376005248,Yes
+Whether School meets required federal funding and child poverty,653.4111500985841,1.2842473003621774e-22,Yes
+Income Inequality Quartile and child poverty,1538.0970210044675,8.140812283636531e-25,Yes
+Political Party and life expectancy,1558.5316474758704,0.4700147230970919,No
+Whether School meets required federal funding and life expectancy,1581.076966672827,0.31669809901063806,No
+Political Party and firearm fatalities,1586.7848114308586,0.46143153705981,No
+Whether School meets required federal funding and firearm fatalities,1589.1077306720877,0.4451122833120476,No
+Whether School meets required federal funding and median income,1621.2307866691308,0.47970268362438123,No
+Political Party and median income,1623.1103079444151,0.4665736794684247,No
+Political Party and premature death,1648.0,0.48841810656984014,No
+Whether School meets required federal funding and premature death,1648.0,0.48841810656984014,No
+Income Inequality Quartile and life expectancy,4655.9578995585925,0.5345723658094717,No
+Income Inequality Quartile and firearm fatalities,4754.5868023992,0.4621873864586245,No
+Income Inequality Quartile and median income,4866.524856294205,0.4588463648607668,No
+Income Inequality Quartile and premature death,4944.0,0.48529091975399136,No
